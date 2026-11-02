@@ -1,0 +1,6 @@
+{
+  "name": "Bharat AI - One AI. Your Entire Life, Simplified.",
+  "description": "Unified AI platform and everyday assistant for India with chat, voice, document intelligence, smart daily planner, personal finance, Bharat government services, and learning assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
